@@ -2,9 +2,5 @@
   {
     "package": "cassowaryr",
     "oncran": true
-  },
-  {
-    "package": "yowie",
-    "oncran": true
   }
 ]
