@@ -5,3 +5,6 @@
 [submodule "cassowaryr"]
 	path = cassowaryr
 	url = https://github.com/numbats/cassowaryr
+[submodule "woylier"]
+	path = woylier
+	url = https://github.com/numbats/woylier
