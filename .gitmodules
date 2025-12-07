@@ -5,6 +5,9 @@
 [submodule "cassowaryr"]
 	path = cassowaryr
 	url = https://github.com/numbats/cassowaryr
+[submodule "moodlequiz"]
+	path = moodlequiz
+	url = https://github.com/numbats/moodlequiz
 [submodule "woylier"]
 	path = woylier
 	url = https://github.com/numbats/woylier
