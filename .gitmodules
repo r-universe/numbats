@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "blockstrap"]
+	path = blockstrap
+	url = https://github.com/numbats/blockstrap
 [submodule "cassowaryr"]
 	path = cassowaryr
 	url = https://github.com/numbats/cassowaryr
