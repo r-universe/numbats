@@ -11,6 +11,9 @@
 [submodule "moodlequiz"]
 	path = moodlequiz
 	url = https://github.com/numbats/moodlequiz
+[submodule "prefviz"]
+	path = prefviz
+	url = https://github.com/numbats/prefviz
 [submodule "woylier"]
 	path = woylier
 	url = https://github.com/numbats/woylier
